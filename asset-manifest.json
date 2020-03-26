@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Samurai1.0/static/css/main.c6455ded.chunk.css",
-    "main.js": "/Samurai1.0/static/js/main.c74db57d.chunk.js",
-    "main.js.map": "/Samurai1.0/static/js/main.c74db57d.chunk.js.map",
+    "main.css": "/Samurai1.0/static/css/main.c7e5570d.chunk.css",
+    "main.js": "/Samurai1.0/static/js/main.8b03a838.chunk.js",
+    "main.js.map": "/Samurai1.0/static/js/main.8b03a838.chunk.js.map",
     "runtime-main.js": "/Samurai1.0/static/js/runtime-main.9a267086.js",
     "runtime-main.js.map": "/Samurai1.0/static/js/runtime-main.9a267086.js.map",
     "static/css/2.81e2c8a5.chunk.css": "/Samurai1.0/static/css/2.81e2c8a5.chunk.css",
-    "static/js/2.b86e7305.chunk.js": "/Samurai1.0/static/js/2.b86e7305.chunk.js",
-    "static/js/2.b86e7305.chunk.js.map": "/Samurai1.0/static/js/2.b86e7305.chunk.js.map",
+    "static/js/2.a9461a43.chunk.js": "/Samurai1.0/static/js/2.a9461a43.chunk.js",
+    "static/js/2.a9461a43.chunk.js.map": "/Samurai1.0/static/js/2.a9461a43.chunk.js.map",
     "index.html": "/Samurai1.0/index.html",
-    "precache-manifest.7b4c93467b80ed81e21a7fd843ee34d1.js": "/Samurai1.0/precache-manifest.7b4c93467b80ed81e21a7fd843ee34d1.js",
+    "precache-manifest.faaebd840726bcace25473b303fb43cc.js": "/Samurai1.0/precache-manifest.faaebd840726bcace25473b303fb43cc.js",
     "service-worker.js": "/Samurai1.0/service-worker.js",
     "static/css/2.81e2c8a5.chunk.css.map": "/Samurai1.0/static/css/2.81e2c8a5.chunk.css.map",
-    "static/css/main.c6455ded.chunk.css.map": "/Samurai1.0/static/css/main.c6455ded.chunk.css.map",
-    "static/js/2.b86e7305.chunk.js.LICENSE.txt": "/Samurai1.0/static/js/2.b86e7305.chunk.js.LICENSE.txt",
+    "static/css/main.c7e5570d.chunk.css.map": "/Samurai1.0/static/css/main.c7e5570d.chunk.css.map",
+    "static/js/2.a9461a43.chunk.js.LICENSE.txt": "/Samurai1.0/static/js/2.a9461a43.chunk.js.LICENSE.txt",
+    "static/media/LandingPage.css": "/Samurai1.0/static/media/MainLogo.c180dac5.svg",
     "static/media/ControlM.png": "/Samurai1.0/static/media/ControlM.ba402a5c.png",
     "static/media/Icon ionic-ios-exit.svg": "/Samurai1.0/static/media/Icon ionic-ios-exit.fb6e8c25.svg",
     "static/media/Logo.svg": "/Samurai1.0/static/media/Logo.5ba3439b.svg",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a267086.js",
     "static/css/2.81e2c8a5.chunk.css",
-    "static/js/2.b86e7305.chunk.js",
-    "static/css/main.c6455ded.chunk.css",
-    "static/js/main.c74db57d.chunk.js"
+    "static/js/2.a9461a43.chunk.js",
+    "static/css/main.c7e5570d.chunk.css",
+    "static/js/main.8b03a838.chunk.js"
   ]
 }
