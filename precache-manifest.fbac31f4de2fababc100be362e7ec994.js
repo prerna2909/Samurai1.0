@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae8c76a62e810ccfee7fba8733116b93",
+    "revision": "3e7b0d1926fc994cb0c215805ad3ca1e",
     "url": "/Samurai1.0/index.html"
   },
   {
-    "revision": "a299b226c7e319df667e",
-    "url": "/Samurai1.0/static/css/2.81e2c8a5.chunk.css"
+    "revision": "0b4930701b957efca8c5",
+    "url": "/Samurai1.0/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "a6fde31d377fa9345759",
-    "url": "/Samurai1.0/static/css/main.b339b6fc.chunk.css"
+    "revision": "9f11482162b9ecab25e8",
+    "url": "/Samurai1.0/static/css/main.e0c97143.chunk.css"
   },
   {
-    "revision": "a299b226c7e319df667e",
-    "url": "/Samurai1.0/static/js/2.05825c4c.chunk.js"
+    "revision": "0b4930701b957efca8c5",
+    "url": "/Samurai1.0/static/js/2.83a33a17.chunk.js"
   },
   {
-    "revision": "9a0e6ad7df4effc3aa6ea7f039958117",
-    "url": "/Samurai1.0/static/js/2.05825c4c.chunk.js.LICENSE.txt"
+    "revision": "882dda980fb22bdfe71fa2cbeb9b28ff",
+    "url": "/Samurai1.0/static/js/2.83a33a17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6fde31d377fa9345759",
-    "url": "/Samurai1.0/static/js/main.7d56903c.chunk.js"
+    "revision": "9f11482162b9ecab25e8",
+    "url": "/Samurai1.0/static/js/main.fb3059c3.chunk.js"
   },
   {
     "revision": "04317683ddf98e737479",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Samurai1.0/static/media/Icon ionic-ios-exit.fb6e8c25.svg"
   },
   {
+    "revision": "fbb2d2ffffd2f9b454d29124f16a7fed",
+    "url": "/Samurai1.0/static/media/LoginLogo.fbb2d2ff.png"
+  },
+  {
     "revision": "5ba3439b39d01d9d7222da099932191a",
     "url": "/Samurai1.0/static/media/Logo.5ba3439b.svg"
   },
@@ -56,10 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Samurai1.0/static/media/MainLogo.8290b4f5.png"
   },
   {
-    "revision": "a7b519746b11946ba3f288ad144a9c32",
-    "url": "/Samurai1.0/static/media/NewRelic.a7b51974.png"
-  },
-  {
     "revision": "1cd294a771f26752bbb8d8d5210f6412",
     "url": "/Samurai1.0/static/media/Nunito-Bold.1cd294a7.ttf"
   },
@@ -68,15 +68,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Samurai1.0/static/media/Quest.eacbd6ac.png"
   },
   {
-    "revision": "62ddf3db86f7b9b29ece35b289116486",
-    "url": "/Samurai1.0/static/media/TabLogo.62ddf3db.png"
+    "revision": "791cc338823330bb77156dd55e8961ef",
+    "url": "/Samurai1.0/static/media/SuccessImg.791cc338.png"
   },
   {
     "revision": "d04975ddd683dc3bdd49ae0dd394c064",
     "url": "/Samurai1.0/static/media/TabMainLogo.d04975dd.png"
   },
   {
+    "revision": "3e166dc1caf8b6b6d6baae70a0ebf688",
+    "url": "/Samurai1.0/static/media/VSIntelliCode.3e166dc1.png"
+  },
+  {
     "revision": "489481133339b0b7014acb2fcb38cb01",
     "url": "/Samurai1.0/static/media/ZenAnalytica_Logo.48948113.png"
+  },
+  {
+    "revision": "69854a09354995d59ded9f51758c219e",
+    "url": "/Samurai1.0/static/media/loadingImg.69854a09.png"
+  },
+  {
+    "revision": "e90a4db16d73cdee70bb575cafda2af8",
+    "url": "/Samurai1.0/static/media/personWithDoor.e90a4db1.png"
   }
 ]);
